@@ -3,6 +3,8 @@
 ## Formula
 $DICE = \frac{|X\cap Y|}{|X|+|Y|}$
 
+https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
+
 ## dice fucntion
 inputs: s1, s2
 - Annotation on a single signal segment.

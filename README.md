@@ -1,7 +1,7 @@
 # Dice score
 
 ## Formula
-$DICE = \frac{|X\cap Y|}{|X|+|Y|}$
+$DICE = \frac{2\times |X\cap Y|}{|X|+|Y|}$
 
 https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
 

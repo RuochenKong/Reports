@@ -38,6 +38,8 @@ def calsegLen(s):
 
 
 def dice(s1,s2):
+	s1.sort()
+	s2.sort()
 	inter = intersecseg(s1,s2)
 	leninter = calsegLen(inter)
 
